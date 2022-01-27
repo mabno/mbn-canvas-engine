@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"noImplicitAny": false,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"outDir": "./dist",
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true
+	}
+}
